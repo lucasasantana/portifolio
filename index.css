@@ -2,7 +2,12 @@ body {
     background: #30363D;
 }
 
-.mainHeader {
+section {
+    height: 100vh;
+    
+}
+
+.centeredContent {
     margin-left: auto;
     margin-right: auto;
     margin: 50vh auto 0;
