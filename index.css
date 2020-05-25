@@ -14,7 +14,7 @@ section {
     transform: translateY(-50%);
 }
 
-.mainTitle {
+#mainTitle {
 
     font-family: Zilla Slab;
     font-style: normal;
@@ -28,7 +28,7 @@ section {
     color: #FFFFFF;
 }
 
-.mainSubTitle {
+#mainSubTitle {
 
     font-family: Zilla Slab;
     font-style: normal;
