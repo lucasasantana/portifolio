@@ -1,0 +1,39 @@
+body {
+    background: #30363D;
+}
+
+.mainHeader {
+    margin-left: auto;
+    margin-right: auto;
+    margin: 50vh auto 0;
+    transform: translateY(-50%);
+}
+
+.mainTitle {
+
+    font-family: Zilla Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: min(10vw, 44px);
+    line-height: 127%;
+    
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.mainSubTitle {
+
+    font-family: Zilla Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: min(4vw, 19px);
+    line-height: 130%;
+    
+    text-align: center;
+
+    opacity: 0.8;
+
+    color: #FFFFFF;
+}
