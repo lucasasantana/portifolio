@@ -1,5 +1,6 @@
 body {
     background: #30363D;
+    font-family: Zilla Slab;
 }
 
 section {
@@ -16,7 +17,6 @@ section {
 
 #mainTitle {
 
-    font-family: Zilla Slab;
     font-style: normal;
     font-weight: normal;
     font-size: min(10vw, 44px);
@@ -30,7 +30,6 @@ section {
 
 #mainSubTitle {
 
-    font-family: Zilla Slab;
     font-style: normal;
     font-weight: normal;
     font-size: min(4vw, 19px);
